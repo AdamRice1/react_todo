@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '/Users/adamrice/Desktop/TEKsystems/react_to_do/react-todo/to_do_list/src/App.css';
 import Items from './Items';
 import '../App.css';
 
